@@ -1,4 +1,4 @@
-# PyData Cambridge 2019 🇨🇿
+# PyData Prague 2019 🇨🇿
 
 _Wednesday 27 November 2019._
 
